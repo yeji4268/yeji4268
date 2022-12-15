@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="kim_yeji@kakao.com" target="_blank"><img src="https://img.shields.io/badge/kim_yeji@kakao.com-5F4B8B?style=flat-square&logo=#EA4335&logoColor=5F4B8B"/></a>
+<a href="kim_yeji@kakao.com" target="_blank"><img src="https://img.shields.io/badge/kim_yeji@kakao.com-5F4B8B?style=flat-square&logo=EA4335&logoColor=5F4B8B"/></a>
