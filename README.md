@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="kim_yeji@kakao.com" target="_blank"><img src="https://img.shields.io/badge/kim_yeji@kakao.com-5F4B8B?style=flat-square&logo=#EA4335&logoColor=5F4B8B"/></a>
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeji4268@naver.com)](mailto:yeji4268@naver.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeji4268&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
