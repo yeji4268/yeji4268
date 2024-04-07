@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yeji4268@naver.com)](mailto:yeji4268@naver.com)
 
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@yeji4268/posts)](https://velog.io/@yeji4268/posts)
