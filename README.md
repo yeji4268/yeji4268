@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 |분류|프로젝트 이름|기간|
 |---|---|---|
 |DL|[대드론 체계 방어 시스템 구축을 위한 레이저 대공무기 설치 지점 탐색](https://github.com/HWDFinalProject/ADDS)|2025.01~2025.02|
-|ML|[빅콘테스트: 지속가능한 축제 유치를 위한 대중교통 접근성 분석과 탄소발자국 경감 방안 제안](https://github.com/2024Bigcontest-DA/DA/tree/yeji)|2024.09~2023.11|
+|ML|[빅콘테스트: 지속가능한 축제 유치를 위한 대중교통 접근성 분석과 탄소발자국 경감 방안 제안](https://github.com/2024Bigcontest-DA/DA/tree/yeji)|2024.09~2024.11|
 |ML|[빌보드 데이터를 통한 음악 트렌드 분석 및 음원 전략 제안](https://github.com/BTSnextalbumproject/project/tree/kimyeji)|2024.10(2주)|
 |DL|[작사 모델 구현(with Pytorch)](https://github.com/yeji4268/LyricsGenerator)|2023.12(2주)|
 |ML|[DACON 전력사용량 예측 AI 경진대회](https://github.com/2023dacon/Power-usage-Prediction)|2023.08|
