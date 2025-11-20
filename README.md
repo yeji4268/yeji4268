@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeji4268)](https://solved.ac/yeji4268/)
 
 ---
 |분류|프로젝트 이름|기간|
